@@ -70,4 +70,4 @@ Bienvenido/a a mi portafolio profesional. Me especializo en el diseño e impleme
 ## 📬 Contacto & Redes Profesionales
 
 - **GitHub:** [github.com/joserondon741](https://github.com/joserondon741)
-- **LinkedIn:** [linkedin.com/in/jose-rondon-sosa](https://www.linkedin.com)
+- **LinkedIn:** [linkedin.com/in/jose-rondon-b64577191](https://www.linkedin.com/in/jose-rondon-b64577191)
